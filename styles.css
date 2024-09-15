@@ -1,0 +1,75 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #ffffff; /* White text color */
+    background-color: #000000; /* Black background */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1a1a1a; /* Darker black for header */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: #007bff; /* Bright blue for header text */
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.intro {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.main-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.benefits {
+    margin-bottom: 20px;
+}
+
+.benefits ul {
+    list-style: none;
+    padding: 0;
+}
+
+.benefits li {
+    background-color: #333333; /* Dark grey background for list items */
+    color: #ffffff; /* White text for list items */
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.call-to-action {
+    text-align: center;
+}
+
+.call-to-action a {
+    color: #007bff; /* Bright blue for links */
+    text-decoration: none;
+}
+
+.call-to-action a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #1a1a1a; /* Darker black for footer */
+    padding: 10px;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    color: #ffffff; /* White text color for footer */
+}
